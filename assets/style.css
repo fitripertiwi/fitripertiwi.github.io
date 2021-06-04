@@ -99,6 +99,7 @@
 	}
 	#nav-link{
 		text-align: center;
+		font-size: .9rem;
 	}
 	#nav-link:before{
 		display: none;
